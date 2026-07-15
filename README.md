@@ -19,6 +19,8 @@ A complete desktop application developed to automate restaurant workflows and si
 The system provides dedicated functionality for administrators and employees while efficiently managing customer records, order history, billing information, loyalty rewards, and business reports.
 
 The application is designed to centralize restaurant operations and improve workflow efficiency through a structured digital management system.
+<img width="959" height="502" alt="R (1)" src="https://github.com/user-attachments/assets/8ba76ae8-0e49-4c1b-8506-334709787fa0" />
+
 
 ---
 
