@@ -1,3 +1,4 @@
+<img width="603" height="372" alt="crm1" src="https://github.com/user-attachments/assets/a9e09e63-9543-4c1e-a42f-fba32e02cf17" />
 # Zynox Tech — Software Development Projects
 
 A curated collection of **software development projects developed by Zynox Tech**.
@@ -80,6 +81,8 @@ A Customer Relationship Management desktop application developed using **C# Wind
 The application follows a basic **3-Tier Architecture** structure to provide organized separation between the presentation, business logic, and data access layers.
 
 The system is designed to support customer data management and demonstrate structured desktop software development using the Microsoft technology ecosystem.
+
+<img width="603" height="372" alt="crm1" src="https://github.com/user-attachments/assets/8b93b765-f09b-4fb0-8154-01018f90a320" />
 
 ---
 
