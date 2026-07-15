@@ -19,8 +19,8 @@ A complete desktop application developed to automate restaurant workflows and si
 The system provides dedicated functionality for administrators and employees while efficiently managing customer records, order history, billing information, loyalty rewards, and business reports.
 
 The application is designed to centralize restaurant operations and improve workflow efficiency through a structured digital management system.
-<img width="959" height="502" alt="R (1)" src="https://github.com/user-attachments/assets/8ba76ae8-0e49-4c1b-8506-334709787fa0" />
 
+https://github.com/user-attachments/assets/4b375ed4-d478-45ca-9729-c56812b2eafc
 
 ---
 
@@ -33,6 +33,7 @@ A modern desktop-based inventory management system developed using **Python and 
 The application provides a clean, dark-themed user interface and a structured solution for product tracking, category management, supplier coordination, checkout operations, and billing.
 
 Modernized and developed by **Zynox Tech**, the system focuses on simplifying inventory workflows and improving operational efficiency for businesses.
+
 <img width="959" height="488" alt="I (1)" src="https://github.com/user-attachments/assets/fd3821f3-9586-449e-ba6c-c924fa347b8a" />
 
 
@@ -49,6 +50,7 @@ The application is designed to efficiently record, organize, and monitor company
 It helps streamline expenditure tracking, maintain structured financial records, improve expense visibility, and simplify the management of day-to-day company spending.
 
 The system provides a reliable solution for replacing manual expense records with a more organized and efficient digital workflow.
+
 <img width="959" height="502" alt="L (1)" src="https://github.com/user-attachments/assets/30110a69-edef-49c5-9795-3ac23784d9dc" />
 
 ---
