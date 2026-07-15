@@ -33,6 +33,8 @@ A modern desktop-based inventory management system developed using **Python and 
 The application provides a clean, dark-themed user interface and a structured solution for product tracking, category management, supplier coordination, checkout operations, and billing.
 
 Modernized and developed by **Zynox Tech**, the system focuses on simplifying inventory workflows and improving operational efficiency for businesses.
+<img width="959" height="488" alt="I (1)" src="https://github.com/user-attachments/assets/fd3821f3-9586-449e-ba6c-c924fa347b8a" />
+
 
 ---
 
@@ -47,6 +49,7 @@ The application is designed to efficiently record, organize, and monitor company
 It helps streamline expenditure tracking, maintain structured financial records, improve expense visibility, and simplify the management of day-to-day company spending.
 
 The system provides a reliable solution for replacing manual expense records with a more organized and efficient digital workflow.
+<img width="959" height="502" alt="L (1)" src="https://github.com/user-attachments/assets/30110a69-edef-49c5-9795-3ac23784d9dc" />
 
 ---
 
@@ -61,6 +64,10 @@ The system is primarily developed using **PHP** and is designed to operate local
 The application provides administrators with centralized control over school management operations through a dedicated administrative interface.
 
 The current version focuses on administrator functionality, with an architecture that can be expanded to support additional user roles and access levels.
+
+
+https://github.com/user-attachments/assets/bdab377b-56c5-4308-9988-f16340ad2e53
+
 
 ---
 
