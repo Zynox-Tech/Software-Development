@@ -1,4 +1,3 @@
-<img width="603" height="372" alt="crm1" src="https://github.com/user-attachments/assets/a9e09e63-9543-4c1e-a42f-fba32e02cf17" />
 # Zynox Tech — Software Development Projects
 
 A curated collection of **software development projects developed by Zynox Tech**.
